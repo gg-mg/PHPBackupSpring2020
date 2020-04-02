@@ -7,7 +7,7 @@
 
 <!-- main -->
 
-<main class = "phpQuery"> 
+<main > 
 <div>
 <img src="../../Images/picha/creatingSimpleDatabase2.png"  alt="Simple Database with it's Source Code">
 </div>

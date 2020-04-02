@@ -10,7 +10,8 @@
 <!-- main -->
 <main> 
     <ul>     
-        <li><a href= "SSP09_17_2/index.php" class = "query">creatingSimpleDatabase</a></li>        
+        <li><a href= "SSP09_17_2/index.php" class = "query">Creating simple database</a></li>  
+        <li><a href= "SSP09_18_1/index.php" class = "query">How to use SQL to work with database</a></li>      
     </ul>
 </main>
 
