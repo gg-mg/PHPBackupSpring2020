@@ -16,7 +16,7 @@
 
 <!-- footer -->
 
-<?php include "../../PHP/Includes/include_footer2.php";?>
+<?php include "../../PHP/Includes/include_footer.php";?>
     
 </body>
 </html>
